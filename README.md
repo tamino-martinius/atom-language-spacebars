@@ -1,11 +1,11 @@
 # language-spacebars package
 
-Spacebars language from Meteor.js
+Adds syntax highlighting and snippets to Spacebars files in Atom.
+Can also be used for Handlebars.
 
-## Snippets
+## Feedback
 
-The package comes with some built-in snippets to help you work more quickly in Spacebars.
-Feel free to submit issues or pull requests with suggestions for more
+Feel free to submit issues or pull requests with suggestions for more.
 
 ### Generic Snippets
 

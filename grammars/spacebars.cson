@@ -477,5 +477,13 @@
     "include": "text.html.basic"
 ]
 "fileTypes": [
-  "html"
+    "html"
+  ,
+    "handlebars"
+  ,
+    "hbs"
+  ,
+    "handlebars.erb"
+  ,
+    "hbs.erb"
 ]
