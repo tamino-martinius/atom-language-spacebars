@@ -1,0 +1,20 @@
+{
+  "name": "language-spacebars",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Spacebars language from Meteor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaku-eu/atom-language-spacebars"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/zaku-eu/atom-language-spacebars/issues"
+  },
+  "homepage": "https://github.com/zaku-eu/atom-language-spacebars"
+}
