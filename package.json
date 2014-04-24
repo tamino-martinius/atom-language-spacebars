@@ -2,7 +2,7 @@
   "name": "language-spacebars",
   "version": "0.2.1",
   "private": true,
-  "description": "Spacebars language from Meteor.js",
+  "description": "Adds syntax highlighting and snippets to Spacebars files in Atom.",
   "repository": {
     "type": "git",
     "url": "https://github.com/zaku-eu/atom-language-spacebars"
