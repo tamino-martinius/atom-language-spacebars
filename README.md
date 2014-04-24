@@ -58,6 +58,8 @@ Feel free to submit issues or pull requests with suggestions for more.
 ```spacebars
 {{#with item}}
 
+{{else}}
+
 {{/with}}
 ```
 
