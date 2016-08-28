@@ -25,7 +25,7 @@
     "body": "{{#each ${1:items}}}\n\t$0\n{{else}}\n\t$1\n{{/each}}"
   "let":
     "prefix": "let"
-    "body": "{{#let ${1:items}}}\n\t$0\n{{/let}}"
+    "body": "{{#let ${1:variables}}}\n\t$0\n{{/let}}"
   "partial":
     "prefix": "pa"
     "body": "{{> ${1:template} }}"
