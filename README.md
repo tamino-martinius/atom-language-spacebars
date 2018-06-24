@@ -71,6 +71,24 @@ Feel free to submit issues or pull requests with suggestions for more.
 {{/each}}
 ```
 
+#### each - else: `eae`
+
+```spacebars
+{{#each items}}
+
+{{else}}
+
+{{/each}}
+```
+
+#### let: `let`
+
+```spacebars
+{{#let variables}}
+
+{{/let}}
+```
+
 #### partial: `pa`
 
 ```spacebars
