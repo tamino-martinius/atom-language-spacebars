@@ -1,4 +1,4 @@
-".text.html.spacebars":
+".text.html":
   "if":
     "prefix": "if"
     "body": "{{#if ${1:condition}}}\n\t$0\n{{/if}}"
